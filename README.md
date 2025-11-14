@@ -30,6 +30,20 @@ The **CardioCare** app includes the following features:
 
 These features aim to provide a simple, attractive, and intuitive experience for users to monitor and track their blood pressure and heart rate data.
 
+## 🗄️ Database & Backend Services
+
+### **Primary Database: Firebase Realtime Database**
+- **Cloud-based NoSQL database** for storing user data and health records
+- **Real-time synchronization** across all devices
+- **Offline persistence** - data remains accessible without internet connection
+- **JSON tree structure** for flexible data modeling
+- **Secure data access** through Firebase Authentication
+
+### **Authentication: Firebase Auth**
+- **Phone number authentication** with OTP verification
+- **Secure user sessions** and token management
+- **Auto-login functionality** for returning users
+
 ## Project (App UI) MockUps
 
 <br>
